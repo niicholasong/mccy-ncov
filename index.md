@@ -1,20 +1,20 @@
 ---
 layout: homepage
-title: Ministry of ABC
+title: 2019-nCoV Community Response
 description: The Ministry of ABC is the ministry in charge of XYZ
 permalink: /
 notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
+        title: #SGUnited
+        subtitle: Together We Can Overcome
         background: /images/banner.png
         url: /contact-us/
         button: Contact
         key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
-              url: /services/
+            - title: 2019-nCoV Updates
+              description: Get the latest updates
+              url: "https://gov.sg"
             - title: Our Annual Reports
               url: /annual-reports/
             - title: Join ABC
