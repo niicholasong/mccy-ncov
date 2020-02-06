@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: 2019-nCoV Community Response
-description: The Ministry of ABC is the ministry in charge of XYZ
+description: What we can do for our community during the 2019-nCoV
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: Watch out for new initiatives here! <a href="/register/">Register now</a>
 sections:
     - hero:
         title: #SGUnited
